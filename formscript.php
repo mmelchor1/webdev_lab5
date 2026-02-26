@@ -13,12 +13,12 @@ $age = $_REQUEST['age_field'];
 ?>
 
 <!DOCTYPE html>
-<html lang='en'>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <title>Lab Form Processing Script</title>
     <style>
-    .box{
+    .box {
       border: 1px solid #444;
       background-color: #ccc;
       margin: 20px 20px;
