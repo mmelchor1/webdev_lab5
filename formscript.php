@@ -31,6 +31,7 @@ $age = $_REQUEST['age_field'];
     <h2>Lab Form Processing Script</h2>
     <p>This page will display the results of the form that was submitted to it.</p>
   </div>
+  <hr><br>
   <h1>Thank you for your Lab form submission, <?php echo htmlentities($firstName) ?>!</h1>
   <div class="box">
   <h2>This section contains the information provided in the my info section:</h2>
