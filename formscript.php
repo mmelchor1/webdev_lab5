@@ -6,9 +6,9 @@ $phone = $_REQUEST['phone_field'];
 $email = $_REQUEST['email_field'];
 $hidden = $_REQUEST['hidden_field'];
 $comments = $_REQUEST['comments_field'];
-$gender = $_REQUEST[''];
-$available = $_REQUEST[''];
-$age = $_REQUEST[''];
+$gender = $_REQUEST['gender_field'];
+$available = $_REQUEST['available_field'];
+$age = $_REQUEST['age_field'];
 
 ?>
 
